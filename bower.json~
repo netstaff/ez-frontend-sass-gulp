@@ -1,0 +1,16 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "authors": [
+    "Ryan McCormick <ryan@itjobsguy.com>"
+  ],
+  "description": "Front End Dev",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
